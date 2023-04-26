@@ -1,0 +1,24 @@
+{
+  "networks": {
+    "PolygonMumbai": {
+      "networkId": 80001,
+      "contractAddress": "0xbD7736931920BCC87Dd296c78224ea740E7e6f62",
+      "rpc": "https://polygon-mumbai.g.alchemy.com/v2/demo"
+    },
+    "EthereumGoerli": {
+      "networkId": 5,
+      "contractAddress": "0xe10c58453bcfa3514e89965157380d3d7c1059e6",
+      "rpc": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161"
+    },
+    "EthereumSepolia": {
+      "networkId": 11155111,
+      "contractAddress": "0x8753DAdC7251044f51339692eC63c009e25AeB32",
+      "rpc": "https://eth-sepolia.g.alchemy.com/v2/demo"
+    },
+    "BSCTestnet": {
+      "networkId": 97,
+      "contractAddress": "0xeb35b89EAd5207f8F94D2959D322724F70519F5F",
+      "rpc": "https://data-seed-prebsc-2-s3.binance.org:8545"
+    }
+  }
+}
