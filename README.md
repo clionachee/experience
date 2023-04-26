@@ -4,8 +4,8 @@ This Unity asset utilizes the ChainSafe web3 Unity plugin to request Chainlink V
 
 ## Prerequisites
 
-- Unity 2021.3.8f1 or later
-- Approve LINK tokens for the VRF contract on the Polygon Mumbai network
+- Unity 2021.3.8f1
+- Approve LINK tokens for the VRF contract on the desired network
 - MetaMask browser extension
 
 ## Supported Networks
