@@ -9,6 +9,7 @@ public class NetworkConfig
 {
     public int networkId;          // Network ID
     public string contractAddress; // Contract address
+    public string linkTokenAddress; // LINK token contract address
     public string rpc;             // Remote procedure call address
 }
 

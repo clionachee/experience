@@ -10,10 +10,10 @@ This Unity asset utilizes the ChainSafe web3 Unity plugin to request Chainlink V
 
 ## Supported Networks
 
-- Polygon Mumbai: [0xbD7736931920BCC87Dd296c78224ea740E7e6f62](https://mumbai.polygonscan.com/address/0xbD7736931920BCC87Dd296c78224ea740E7e6f62)
-- Ethereum Goerli : [0xe10c58453bcfa3514e89965157380d3d7c1059e6](https://goerli.etherscan.io/address/0xe10c58453bcfa3514e89965157380d3d7c1059e6)
-- Ethereum Sepolia : [0x8753DAdC7251044f51339692eC63c009e25AeB32](https://sepolia.etherscan.io/address/0x8753dadc7251044f51339692ec63c009e25aeb32)
-- BSC Testnet : [0xeb35b89EAd5207f8F94D2959D322724F70519F5F](https://testnet.bscscan.com/address/0xeb35b89ead5207f8f94d2959d322724f70519f5f)
+- Polygon Mumbai: [0x9472fBaE5c692DD391725B529932f8939f8a5Ad1](https://mumbai.polygonscan.com/address/0x9472fBaE5c692DD391725B529932f8939f8a5Ad1)
+- Ethereum Goerli : [0xFB34a709B04314651aB63bb96007E5B1e4f692c5](https://goerli.etherscan.io/address/0xFB34a709B04314651aB63bb96007E5B1e4f692c5)
+- Ethereum Sepolia : [0x67965649a77AED694F38019a3e8321c496130424](https://sepolia.etherscan.io/address/0x67965649a77AED694F38019a3e8321c496130424)
+- BSC Testnet : [0xC50f1ce56c664262c2F15590c1Ff73D8756200f3](https://testnet.bscscan.com/address/0xC50f1ce56c664262c2F15590c1Ff73D8756200f3)
 
 ## Setup
 
@@ -27,8 +27,8 @@ Follow these steps to set up the Unity project with Chainlink VRF asset:
 
 ### Step 2: Import the VRF Unity Asset
 
-1. Drag and import the `vrf.unitypackage` asset from the `assets` directory of this repository.
-2. Navigate to the downloaded `vrf.unitypacakge` asset file and click `Open`. This will load the `vrf.unitypackage` asset in the Unity Editor.
+1. Drag and import the `vrf-chainsafe.unitypackage` asset from the `assets` directory of this repository.
+2. Navigate to the downloaded `vrf-chainsafe.unitypacakge` asset file and click `Open`. This will load the `vrf-chainsafe.unitypackage` asset in the Unity Editor.
 3. You will be prompred to relaod the sample scene. Click `Reload` to reload the scene.
 
 ### Step 3: Add WebLogin Scene
@@ -46,10 +46,4 @@ Follow these steps to set up the Unity project with Chainlink VRF asset:
 6. Make sure that the `WebLogin` scene is at the top of the list of scenes in the Build Settings window.
 7. Click `Build and Run` to build the project and open it in a browser.
 
-### Step 5: Approve LINK Tokens
-
-1. Go to the LINK Token Contract for the correct network which you can find here https://docs.chain.link/docs/link-token-contracts/.
-2. Click on the `Write Contract` tab in the block explorer.
-3. Click on the `Connect to Web3` button and connect your MetaMask wallet.
-4. Click on the `Approve` button and enter the VRF contract address and the amount of LINK tokens you want to approve.
-5. Click `Write` to approve the LINK tokens.
+![VRF Unity](./vrf-unity.png)
