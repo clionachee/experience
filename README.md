@@ -4,6 +4,9 @@ Chainlink VRF with Unity
 Unity Game Engine
 Gravity Sketch in Meta Quest 3
 
+Short and sweet description:
+'Experience Love,' a metaverse space using Unity and Chainlink VRF for XR where customizable experiences await. Social data fuels immersive customized exploration, while VRF powers asset transactions. It accompanies people to explore their worth, which AI can't replace yet.
+
 About the project:
 
 Experience Love is a metaverse space integrating Unity with Chainlink's VRF Asset, being a practical and engaging 3D motion experience for users to customize quests and feel loveable. Users navigate love-themed challenges using Chainlink's secure randomness, ensuring unique experiences. Upon entry, user data from social platforms is connected with consent to generate special and custom collaborative puzzle-solving and emotional scenarios for exploration and love. This step is aided by another AI integration and may be altered at an early stage. The Unity Chainlink VRF Asset not only adds authenticity but also introduces revenue streams, enabling tokenized events and in-app transactions of the metaverse assets. This practical integration positions Experience Love as a human-focused and revenue-generating immersive space, emphasizing harmony between beings, nature, and technologies.
