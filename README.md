@@ -1,4 +1,14 @@
-# Unity Chainlink VRF Asset
+
+Tech stack in plan to use:
+Chainlink VRF with Unity
+Unity Game Engine
+Gravity Sketch in Meta Quest 3
+
+
+_________________________________________________________________________________________________________
+
+
+# Tech Stack 1: Unity Chainlink VRF Asset
 
 This Unity asset utilizes the ChainSafe web3 Unity plugin to request Chainlink VRF (Verifiable Random Function) data in your Unity WebGL project. By default, this asset uses the Direct Funding VRF Consumer contract on the Polygon Mumbai network with the address `0xbD7736931920BCC87Dd296c78224ea740E7e6f62`. You can change and configure the contract address and network after importing the assets. This README will guide you through the necessary steps to set up and use this asset in your Unity project, using Unity version 2021.3.8f1.
 
