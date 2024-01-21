@@ -1,3 +1,57 @@
+**Technologies Used:**
+
+1. **Ethereum Blockchain:**
+   - The project is grounded in the Ethereum blockchain, providing a secure and decentralized foundation for transactions, asset ownership, and user interactions.
+
+2. **Chainlink VRF:**
+   - The ethereal dance of unpredictability is orchestrated by Chainlink VRF, adding an element of secure randomness to various aspects of the metaverse.
+
+3. **Webgl+XR Plugin:**
+   - To bridge the realms between virtual and tangible, the Webgl+XR Plugin creates an immersive environment accessible across diverse devices and platforms.
+
+4. **Unity Game Engine:**
+   - Unity serves as the canvas for the metaverse, allowing the creation of scenic landscapes, dark skies, and mountains, elevating the visual and interactive experience.
+
+5. **Chainsafe SDK:**
+   - The integration of Chainsafe SDK contributes to the safety and security of transactions within the metaverse, enhancing the overall trustworthiness of the virtual environment.
+
+**Integration:**
+
+1. **Ethereum and Chainlink Synergy:**
+   - Ethereum and Chainlink are seamlessly integrated to ensure secure and transparent transactions. Chainlink VRF operates as an oracle, providing verifiable randomness while interacting harmoniously with the Ethereum blockchain.
+
+2. **Webgl+XR Plugin Harmony:**
+   - The Webgl+XR Plugin is carefully woven into the Unity game engine, creating an immersive and accessible virtual space. This integration ensures a fluid experience for users exploring the metaverse.
+
+3. **Chainsafe SDK Security Layer:**
+   - Chainsafe SDK acts as a security layer, complementing the Ethereum blockchain. Its integration strengthens the overall safety of transactions within the metaverse, aligning with the project's commitment to trust and transparency.
+
+**Notable Considerations:**
+
+1. **Meaningful Asset Trading Algorithm:**
+   - The algorithm governing asset trading after deep talks is designed to prioritize meaningful connections. It ensures that virtual assets hold sentimental value, enriching the trading experience and reflecting the depth of interactions.
+
+2. **User-Controlled Conversations Architecture:**
+   - The architecture empowering users to reject conversations is designed with simplicity and user-centricity in mind. It allows for seamless control, emphasizing a comfortable and empowered user experience.
+
+3. **Chainlink VRF Panel Integration:**
+   - The unlickable Chainlink VRF panel within the demo provides a glimpse into the secure transaction functionalities. Its integration serves as a notable step towards ensuring the unpredictability and fairness of virtual experiences.
+
+**Benefits of Partner Technologies:**
+
+   - **Chainlink VRF:** Ensures secure and verifiable randomness, adding an enriching layer of unpredictability to interactions.
+   
+   - **Chainsafe SDK:** Strengthens the security of transactions, aligning with the project's commitment to safe and trustworthy virtual experiences.
+
+**Future Iterations:**
+
+   - Future development involves refining the demo, addressing any existing limitations, and further enhancing the metaverse's functionalities. The goal is to create a seamlessly functioning, secure, and deeply engaging space for users.
+
+
+
+_________________________________________________________________________________________________________
+
+Previous Check-Ins:
 
 Tech stack in plan to use:
 Chainlink VRF with Unity
