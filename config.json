@@ -1,0 +1,28 @@
+{
+  "networks": {
+    "PolygonMumbai": {
+      "networkId": 80001,
+      "contractAddress": "0x9472fBaE5c692DD391725B529932f8939f8a5Ad1",
+      "linkTokenAddress": "0x326C977E6efc84E512bB9C30f76E30c160eD06FB",
+      "rpc": "https://polygon-mumbai.g.alchemy.com/v2/demo"
+    },
+    "EthereumGoerli": {
+      "networkId": 5,
+      "contractAddress": "0xFB34a709B04314651aB63bb96007E5B1e4f692c5",
+      "linkTokenAddress": "0x326C977E6efc84E512bB9C30f76E30c160eD06FB",
+      "rpc": "https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161"
+    },
+    "EthereumSepolia": {
+      "networkId": 11155111,
+      "contractAddress": "0x67965649a77AED694F38019a3e8321c496130424",
+      "linkTokenAddress": "0x779877A7B0D9E8603169DdbD7836e478b4624789",
+      "rpc": "https://eth-sepolia.g.alchemy.com/v2/demo"
+    },
+    "BSCTestnet": {
+      "networkId": 97,
+      "contractAddress": "0xC50f1ce56c664262c2F15590c1Ff73D8756200f3",
+      "linkTokenAddress": "0x84b9B910527Ad5C03A9Ca831909E21e236EA7b06",
+      "rpc": "https://data-seed-prebsc-2-s3.binance.org:8545"
+    }
+  }
+}
